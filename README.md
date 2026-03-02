@@ -6,6 +6,14 @@ This project analyzes Amazon E-Commerce sales data using Power BI and SQL to unc
 
 The objective was to help stakeholders maintain strong performance while identifying strategic opportunities for growth, customer satisfaction improvement, and revenue optimization.
 
+<img width="1550" height="974" alt="Screenshot 2026-02-23 135538" src="https://github.com/user-attachments/assets/17ae96c5-05fa-4df3-a2a3-c83c9d7ec76e" />
+
+
+<img width="1810" height="1141" alt="Screenshot 2026-02-23 135750" src="https://github.com/user-attachments/assets/5bc43428-29f4-4dde-9107-9e6334dbfc41" />
+
+
+<img width="1813" height="1143" alt="Screenshot 2026-02-23 135857" src="https://github.com/user-attachments/assets/4351e9eb-4b7e-491c-b002-1cf89622d299" />
+
 🎯 Problem Statement
 - As a Business Analyst at Amazon, the goal is to:
 - Maintain current performance levels
